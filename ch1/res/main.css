@@ -1,0 +1,9 @@
+#board {
+  width: 1240px;
+  height: 1080px;
+  margin: auto;
+
+  /* additional styles for Rick */
+  position: relative;
+  background-color: #8cd;
+}
